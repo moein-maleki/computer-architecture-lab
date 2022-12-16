@@ -10,6 +10,7 @@ except the SRAM subdirectory, which due to air pollution in Tehran, we weren't a
 on-board SRAM memory, and instread modeled an sram module and tested, verified the functionality of the system in that way.  
 
 This project was made up of different coding stages:
+
   1- base, the first level, aims at creating a 5-stage pipelined processor with hazard detection.
       Surveying "arm_processor.v" gives a better understanding of how seperate stages are implented.
       Wires are carefully named and grouped, in order to reduce confusion. following them in "arm_processor.v" should be an easy task.
