@@ -3,7 +3,7 @@ Includes developed HDL codes, pictures of waveforms and schematics for the imple
 Codes are developed by moein maleki and ashkan jafari, for Architecture Lab, University of Tehran, Fall of 2022. 
 
 The Overall functionality of the system is explained in "ARM.pdf". Seperate condion_check, control_unit, val2_generator units are 
-designed to implemented the functionality of the processor.
+designed to implement the functionality of the processor.
 
 As of 16-Dec-2022, each subdirectory in this repository was simulated, verified, tested and synthesized on an Intel DE2 - Cyclone II FPGA board,
 except the SRAM subdirectory, which due to air pollution in Tehran, we weren't able to actually synthesize and test the developed code with the
