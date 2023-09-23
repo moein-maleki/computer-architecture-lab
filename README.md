@@ -1,4 +1,4 @@
-# arch-lab
+# computer architecture - labratory
 Includes developed HDL codes, pictures of waveforms and schematics for the implementation of an ARM processor.
 Codes are developed by moein maleki and ashkan jafari, for Architecture Lab, University of Tehran, Fall of 2022. 
 
